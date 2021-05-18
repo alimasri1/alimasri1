@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @alimasri1
+## - 👋 Hi, I’m @alimasri1
 - 👀 I’m interested in web design
-- 🌱 I’m currently learning python,html,and network
+- 🌱 I’m currently learning python,HTML,css,bootsrap,javascript, and network
 - 📫 How to reach me 
 my email:alialmasri.sd@gmail.com
 
